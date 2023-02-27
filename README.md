@@ -17,3 +17,5 @@ Usage examples:
 * `python main.py encode --alphabet alphabet.txt input.txt key.txt` - encoding with custom alphabet
 
 * `python main.py decode --alphabet alphabet.txt encoded.txt key.txt` - decoding with custom alphabet
+
+* `python main.py crack --verbal encoded.txt` - cracking autokey cipher
